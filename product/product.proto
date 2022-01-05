@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option go_package = ".;product";
+package product;
+
+service ProductService {
+    rpc GetProductInfo (ProductRequest) returns (stream ProductResponse);
+}
+
+message ProductRequest {
+    string keyWord = 1;
+}
+
+message ProductResponse {
+    string name = 1;
+    int32 price = 2;
+    string imageURL = 3;
+    string productURL = 4;
+}

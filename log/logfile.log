@@ -1,0 +1,91 @@
+2021/12/02 15:34:36 ---------- Service started ---------
+2021/12/02 15:34:52 Search for 貓咪掌
+2021/12/02 15:34:52 successfully opened worker config
+2021/12/02 15:34:52 start the worker 4 pchome
+2021/12/02 15:34:52 start the worker 0 pchome
+2021/12/02 15:34:52 start the worker 1 pchome
+2021/12/02 15:34:52 start the worker 2 pchome
+2021/12/02 15:34:52 start the worker 3 pchome
+2021/12/02 15:34:52 start the worker 0 momo
+2021/12/02 15:34:52 start the worker 4 momo
+2021/12/02 15:34:52 start the worker 2 momo
+2021/12/02 15:34:52 start the worker 3 momo
+2021/12/02 15:34:52 start the worker 1 momo
+2021/12/02 15:34:54 already send input value: &{1 momo 貓咪掌 1 0x140007f10e0 0x140001fe7e0}
+2021/12/02 15:34:54 0 starting on {1 momo 貓咪掌 1 0x140007f10e0 0x140001fe7e0}, Sleeping 2 seconds...
+2021/12/02 15:34:54 finished momo 1
+2021/12/02 15:34:55 already send input value: &{1 pchome 貓咪掌 1 0x1400042c184 0x140001fe7e0}
+2021/12/02 15:34:55 already send input value: &{2 pchome 貓咪掌 2 0x1400042c184 0x140001fe7e0}
+2021/12/02 15:34:55 already send input value: &{3 pchome 貓咪掌 3 0x1400042c184 0x140001fe7e0}
+2021/12/02 15:34:55 already send input value: &{4 pchome 貓咪掌 4 0x1400042c184 0x140001fe7e0}
+2021/12/02 15:34:55 already send input value: &{5 pchome 貓咪掌 5 0x1400042c184 0x140001fe7e0}
+2021/12/02 15:34:55 4 starting on {1 pchome 貓咪掌 1 0x1400042c184 0x140001fe7e0}, Sleeping 2 seconds...
+2021/12/02 15:34:55 finished pchome 1
+2021/12/02 15:34:55 0 starting on {2 pchome 貓咪掌 2 0x1400042c184 0x140001fe7e0}, Sleeping 2 seconds...
+2021/12/02 15:34:55 finished pchome 2
+2021/12/02 15:34:55 1 starting on {3 pchome 貓咪掌 3 0x1400042c184 0x140001fe7e0}, Sleeping 2 seconds...
+2021/12/02 15:34:55 finished pchome 3
+2021/12/02 15:34:55 2 starting on {4 pchome 貓咪掌 4 0x1400042c184 0x140001fe7e0}, Sleeping 2 seconds...
+2021/12/02 15:34:55 finished pchome 4
+2021/12/02 15:34:55 3 starting on {5 pchome 貓咪掌 5 0x1400042c184 0x140001fe7e0}, Sleeping 2 seconds...
+2021/12/02 15:34:55 finished pchome 5
+2021/12/02 15:34:55 already send input value: &{6 pchome 貓咪掌 6 0x1400042c184 0x140001fe7e0}
+2021/12/02 15:34:57 3 starting on {6 pchome 貓咪掌 6 0x1400042c184 0x140001fe7e0}, Sleeping 2 seconds...
+2021/12/02 15:34:57 finished pchome 6
+2021/12/02 15:34:57 closing worker..... 2 pchome
+2021/12/02 15:34:57 Done!
+2021/12/02 15:34:57 closing worker..... 2 momo
+2021/12/02 15:34:57 closing worker..... 4 momo
+2021/12/02 15:34:57 closing worker..... 4 pchome
+2021/12/02 15:34:57 closing worker..... 0 pchome
+2021/12/02 15:34:57 closing worker..... 3 momo
+2021/12/02 15:34:57 closing worker..... 1 momo
+2021/12/02 15:34:57 closing worker..... 1 pchome
+2021/12/02 15:34:57 closing worker..... 0 momo
+2021/12/02 15:34:57 closing Queue...............
+2021/12/02 15:34:59 closing worker..... 3 pchome
+2021/12/02 15:35:56 Search for 貓咪尾巴
+2021/12/02 15:35:56 successfully opened worker config
+2021/12/02 15:35:56 start the worker 4 pchome
+2021/12/02 15:35:56 start the worker 0 momo
+2021/12/02 15:35:56 start the worker 1 momo
+2021/12/02 15:35:56 start the worker 2 momo
+2021/12/02 15:35:56 start the worker 3 momo
+2021/12/02 15:35:56 start the worker 4 momo
+2021/12/02 15:35:56 start the worker 0 pchome
+2021/12/02 15:35:56 start the worker 1 pchome
+2021/12/02 15:35:56 start the worker 2 pchome
+2021/12/02 15:35:56 start the worker 3 pchome
+2021/12/02 15:35:58 already send input value: &{1 momo 貓咪尾巴 1 0x140009174b0 0x1400086a360}
+2021/12/02 15:35:58 0 starting on {1 momo 貓咪尾巴 1 0x140009174b0 0x1400086a360}, Sleeping 2 seconds...
+2021/12/02 15:35:58 finished momo 1
+2021/12/02 15:35:59 already send input value: &{1 pchome 貓咪尾巴 1 0x14000014690 0x1400086a360}
+2021/12/02 15:35:59 already send input value: &{2 pchome 貓咪尾巴 2 0x14000014690 0x1400086a360}
+2021/12/02 15:35:59 already send input value: &{3 pchome 貓咪尾巴 3 0x14000014690 0x1400086a360}
+2021/12/02 15:35:59 already send input value: &{4 pchome 貓咪尾巴 4 0x14000014690 0x1400086a360}
+2021/12/02 15:35:59 already send input value: &{5 pchome 貓咪尾巴 5 0x14000014690 0x1400086a360}
+2021/12/02 15:35:59 already send input value: &{6 pchome 貓咪尾巴 6 0x14000014690 0x1400086a360}
+2021/12/02 15:35:59 4 starting on {1 pchome 貓咪尾巴 1 0x14000014690 0x1400086a360}, Sleeping 2 seconds...
+2021/12/02 15:35:59 finished pchome 1
+2021/12/02 15:35:59 0 starting on {2 pchome 貓咪尾巴 2 0x14000014690 0x1400086a360}, Sleeping 2 seconds...
+2021/12/02 15:35:59 finished pchome 2
+2021/12/02 15:35:59 1 starting on {3 pchome 貓咪尾巴 3 0x14000014690 0x1400086a360}, Sleeping 2 seconds...
+2021/12/02 15:35:59 finished pchome 3
+2021/12/02 15:35:59 2 starting on {4 pchome 貓咪尾巴 4 0x14000014690 0x1400086a360}, Sleeping 2 seconds...
+2021/12/02 15:35:59 finished pchome 4
+2021/12/02 15:35:59 3 starting on {5 pchome 貓咪尾巴 5 0x14000014690 0x1400086a360}, Sleeping 2 seconds...
+2021/12/02 15:35:59 finished pchome 5
+2021/12/02 15:36:01 3 starting on {6 pchome 貓咪尾巴 6 0x14000014690 0x1400086a360}, Sleeping 2 seconds...
+2021/12/02 15:36:01 finished pchome 6
+2021/12/02 15:36:01 closing worker..... 0 pchome
+2021/12/02 15:36:01 closing worker..... 1 pchome
+2021/12/02 15:36:01 closing worker..... 4 pchome
+2021/12/02 15:36:01 Done!
+2021/12/02 15:36:01 closing worker..... 2 pchome
+2021/12/02 15:36:01 closing worker..... 0 momo
+2021/12/02 15:36:01 closing worker..... 3 momo
+2021/12/02 15:36:01 closing worker..... 2 momo
+2021/12/02 15:36:01 closing worker..... 4 momo
+2021/12/02 15:36:01 closing worker..... 1 momo
+2021/12/02 15:36:01 closing Queue...............
+2021/12/02 15:36:03 closing worker..... 3 pchome
